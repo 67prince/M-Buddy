@@ -1,0 +1,6 @@
+{
+  "name": "M Buddy",
+  "description": "Mobile-first offline study tracker for Marrow Edition 6 and Edition 8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
